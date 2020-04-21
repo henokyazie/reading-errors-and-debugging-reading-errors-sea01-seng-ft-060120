@@ -1,5 +1,5 @@
-def division (b, a)
+def division (a, b)
   puts "take the first number and divided by the second number!"
   a / b 
 end
-division(21 / 1)
+division(42 / 0)
